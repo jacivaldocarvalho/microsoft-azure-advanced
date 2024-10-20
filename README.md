@@ -7,3 +7,4 @@ Entender as melhores práticas de conteinerização para empacotar aplicações 
 
 
 ## Desafio de Projeto
+- 📄 [Trabalhando aplicações serverless na Azure](./projetos/apps-serveless-azure/)
